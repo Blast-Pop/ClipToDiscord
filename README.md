@@ -1,4 +1,4 @@
-## 🇬🇧 English
+## English
 
 ### Usage
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🇫🇷 Français
+## Français
 
 ### Utilisation
 
